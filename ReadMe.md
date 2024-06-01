@@ -13,3 +13,5 @@ is a repo for us to learn many web tech stack using themoviedb.org v3 api, the p
 - [Movie's Images](https://developer.themoviedb.org/reference/movie-images)
 - [Movie's Videos](https://developer.themoviedb.org/reference/movie-videos)
 - [Similar Movie](https://developer.themoviedb.org/reference/movie-similar)
+- [Search Movie](https://developer.themoviedb.org/reference/search-movie)
+- [Search Person](https://developer.themoviedb.org/reference/search-person)
